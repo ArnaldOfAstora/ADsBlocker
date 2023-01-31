@@ -1,1 +1,13 @@
-
+{
+    "manifest_version": 3,
+    "name": "El Bloqueador ",
+    "version": "1.0",
+    "icons": { 
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png" },
+    "description": "El bloqueador de anuncios",
+    "author": "pozzi.leonardo23@gmail.com", 
+    "permissions": ["webRequest"],
+    "background.service_worker":"background.js"
+}
