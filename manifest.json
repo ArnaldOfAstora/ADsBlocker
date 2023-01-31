@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "El Bloqueador ",
+    "name": "El Bloqueador",
     "version": "1.0",
     "icons": { 
         "16": "icon.png",

@@ -1,3 +1,3 @@
 # ADsBlocker
-An ADs Blocker, as simple as that
-(It doesn't even work because i suck)
+A non working ADs Blocker, as simple as that
+(I know, I suck)
